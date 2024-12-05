@@ -2883,11 +2883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\Ice-Cream.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.csproj",
       "projectName": "Ice-Cream",
-      "projectPath": "C:\\Users\\ADMIN\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\Ice-Cream.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
