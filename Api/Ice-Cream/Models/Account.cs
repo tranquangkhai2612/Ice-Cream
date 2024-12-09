@@ -15,5 +15,7 @@
         public string? SubcriptionStart { get; set; }
         public string? SubcriptionEnd { get; set; }
         public string? CreateAt { get; set; }
+        public string? Token { get; set; }
+        public DateTime? TokenExpiry { get; set; }
     }
 }
