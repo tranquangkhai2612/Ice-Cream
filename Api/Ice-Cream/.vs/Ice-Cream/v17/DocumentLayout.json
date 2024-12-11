@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,17 +45,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
               "RelativeToolTip": "Models\\Account.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T16:52:59.971Z",
               "EditorCaption": ""
@@ -74,13 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAuwDQAAAAAAAAA",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Controllers\\AccountController.cs*",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwIcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T18:22:07.473Z",
               "EditorCaption": ""
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTO\\RegisterDto.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DB\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DB\\AppDbContext.cs",
@@ -131,7 +131,8 @@
               "RelativeToolTip": "DB\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:22:04.192Z"
+              "WhenOpened": "2024-12-03T18:22:04.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
