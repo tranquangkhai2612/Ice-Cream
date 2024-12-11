@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
-import { login } from './api';
-import { useNavigate } from 'react-router-dom';
+import React, { useState } from "react";
+import { login } from "./app.js";
+import { useNavigate } from "react-router-dom";
 
 const LoginPage = () => {
-  const [data, setData] = useState({ username: '', password: '' });
+  const [data, setData] = useState({ username: "", password: "" });
   const [error, setError] = useState(null);
   const navigate = useNavigate();
 
@@ -21,7 +21,7 @@ const LoginPage = () => {
     } catch (err) {
       setError(err.response?.data || 'Login failed');
     }
-  };
+  };  
 
   return (
     <div>
@@ -31,7 +31,7 @@ const LoginPage = () => {
           type="text"
           name="username"
           placeholder="Username"
-          value={credentials.username}
+          value={data.username}
           onChange={handleChange}
           required
         />
@@ -39,13 +39,13 @@ const LoginPage = () => {
           type="password"
           name="password"
           placeholder="Password"
-          value={credentials.password}
+          value={data.password}
           onChange={handleChange}
           required
         />
         <button type="submit">Login</button>
       </form>
-      {error && <p style={{ color: 'red' }}>{error}</p>}
+      {error && <p style={{ color: "red" }}>{error}</p>}
     </div>
   );
 };
