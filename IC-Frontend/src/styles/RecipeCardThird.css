@@ -1,0 +1,15 @@
+.img-popular-recipe:hover .edit {
+  display: flex;
+  gap: 2;
+  /* position: absolute; */
+  justify-content: end;
+  align-items: center;
+}
+
+.edit {
+  display: none;
+}
+
+.img-popular-recipe .edit .btn {
+  margin: 3px;
+}

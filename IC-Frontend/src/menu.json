@@ -1,0 +1,46 @@
+{
+    "menu": [
+        {
+            "title": "Nasi Goreng Sederhana",
+            "image": "nasi-goreng-sederhana.webp",
+            "slug": "nasi-goreng-sederhana",
+            "ingredients": "Nasi putih, Wortel, Bawang putih, Bawang merah, Cabai merah, Kecap manis, Kaldu ayam, Daun bawang, Minyak goreng",
+            "videoLink": "https://youtu.be/BQZEiWAZyKM"
+        },
+        {
+            "title": "Mie Goreng Sederhana",
+            "image": "mie-goreng-sederhana.webp",
+            "slug": "mie-goreng-sederhana",
+            "ingredients": "Mie telor, Taouge, Sawi, Ayam kampung, Bawang putih, Bawang merah, Cabai rawit, Garam, Merica putih bubuk, Gula pasir, Kecap manis, Minyak sayur, Timun, Bawang goreng",
+            "videoLink": "https://youtu.be/46CsR1Ma0EA"
+        },
+        {
+            "title": "Tahu Telor Surabaya",
+            "image": "tahu-telor-surabaya.webp",
+            "slug": "tahu-telor-surabaya",
+            "ingredients": "Tahu putih, Telor ayam, Kaldu ayam, Merica putih bubuk, Kol, Taoge, Minyak goreng, Cabe rawit merah, Bawang putih, Kacang tanah goreng, Air hangat, Air jeruk nipis, Kecap manis, Bawang goreng, Seledri",
+            "videoLink": "https://youtu.be/B77Pf_PGl_Q"
+        },
+        {
+            "title": "Rendang Ayam Rumahan",
+            "image": "rendang-ayam-rumahan.webp",
+            "slug": "rendang-ayam-rumahan",
+            "ingredients": "Ayam, Air matang, Santan, Royco bumbu rendang, Kacang merah, Minyak sayur, Bawang putih, Bawang merah, Jahe, Cabai merah, Cabai rawit merah",
+            "videoLink": "https://youtu.be/GS4i96HVzKw"
+        },
+        {
+            "title": "Ayam Goreng Mentega",
+            "image": "ayam-goreng-mentega.webp",
+            "slug": "ayam-goreng-mentega",
+            "ingredients": "Ayam, Bawang putih, Merica butiran, Garam, Kecap manis, Mentega, Bawang bombay, Kecap inggris, Kecap asin, Air jeruk nipis",
+            "videoLink": "https://youtu.be/TBq8A-jYKd4"
+        },
+        {
+            "title": "Ayam Geprek Sambal Bawang",
+            "image": "ayam-geprek-sambal-bawang.webp",
+            "slug": "ayam-geprek-sambal-bawang",
+            "ingredients": "Ayam, Tepung maizena, Telor ayam, Royco kaldu ayam, Ketumbar bubuk, Garam, Merica putih bubuk, Tepung terigu, Tepung Beras, Baking powder, Cabai rawit merah, Bawang merah, Bawang putih, Minyak",
+            "videoLink": "https://youtu.be/cuFQ0kFQfgs"
+        }
+    ]
+}
