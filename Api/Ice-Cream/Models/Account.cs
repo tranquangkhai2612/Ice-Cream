@@ -1,21 +1,26 @@
-﻿namespace Ice_Cream.Models
+﻿using System.Data;
+using System.Xml.Linq;
+
+namespace Ice_Cream.Models
 {
     public class Account
     {
         public int Id { get; set; }
-        public string? Username { get; set; }
-        public string? Password { get; set; }
-        public string? Email { get; set; }
-        public string? SubscriptionId { get; set; }
-        public string? Role { get; set; }
-        public string? contactDetails { get; set; }
-        public string? Address { get; set; }
-        public string Active { get; set; } = "false";
-        public string Block { get; set; } = "false";
-        public string? SubcriptionStart { get; set; }
-        public string? SubcriptionEnd { get; set; }
-        public string? CreateAt { get; set; }
-        public string? Token { get; set; }
-        public DateTime? TokenExpiry { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
+        public int? SubscriptionId { get; set; }
+        public int? RoleId { get; set; }
+        public string Email { get; set; }
+        public string ContactDetails { get; set; }
+        public string Address { get; set; }
+        public bool? Active { get; set; }
+        public DateTime? SubscriptionStart { get; set; }
+        public DateTime? SubscriptionEnd { get; set; }
+        public DateTime? CreatedAt { get; set; }
+        public virtual Subscription Subscription { get; set; }
+        public virtual Role Role { get; set; }
+        public virtual ICollection<Comments> Comments { get; set; }
+        public virtual ICollection<Rating> Ratings { get; set; }
+        public virtual ICollection<PaymentInfo> PaymentInfos { get; set; }
     }
 }
