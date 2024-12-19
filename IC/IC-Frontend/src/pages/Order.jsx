@@ -158,7 +158,7 @@ function OrderPage() {
                     className="btn"
                     style={{ backgroundColor: "#efc81a", color: "white" }}
                   >
-                    Submit Information
+                    Sub
                   </button>
                 </div>
               </form>
