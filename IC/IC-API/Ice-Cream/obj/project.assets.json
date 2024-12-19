@@ -2882,11 +2882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/trantien/Downloads/Project/My Ice-Cream/Api/Ice-Cream/Ice-Cream.csproj",
+      "projectUniqueName": "/Users/trantien/Downloads/Project/Ice-Cream/IC/IC-API/Ice-Cream/Ice-Cream.csproj",
       "projectName": "Ice-Cream",
-      "projectPath": "/Users/trantien/Downloads/Project/My Ice-Cream/Api/Ice-Cream/Ice-Cream.csproj",
+      "projectPath": "/Users/trantien/Downloads/Project/Ice-Cream/IC/IC-API/Ice-Cream/Ice-Cream.csproj",
       "packagesPath": "/Users/trantien/.nuget/packages/",
-      "outputPath": "/Users/trantien/Downloads/Project/My Ice-Cream/Api/Ice-Cream/obj/",
+      "outputPath": "/Users/trantien/Downloads/Project/Ice-Cream/IC/IC-API/Ice-Cream/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/trantien/.nuget/NuGet/NuGet.Config"

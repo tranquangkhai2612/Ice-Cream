@@ -88,11 +88,11 @@ function Home() {
                     className="form-control form-control-lg"
                     placeholder="Search Food"
                     onChange={(e) => {
-                      setKeyword(e.target.value)
+                      setKeyword(e.target.value);
                     }}
                     onKeyDown={(e) => {
                       if (e.keyCode === 13) {
-                        handleSearch()
+                        handleSearch();
                       }
                     }}
                   />
@@ -105,7 +105,7 @@ function Home() {
                               image={item?.recipePicture}
                               id={item?.id}
                             />
-                          )
+                          );
                         })
                       : "Recipe Not Found"}
                   </div>
@@ -174,6 +174,41 @@ function Home() {
               style={{ backgroundColor: "#efc81a", color: "#fff" }}
             >
               Learn More
+            </Link>
+          </div>
+        </div>
+      </div>
+
+      <div className="container" style={{ marginBottom: "100px" }}>
+        <div className="row flex-column gap-5 flex-lg-row py-5">
+          <div className="col text-center text-lg-start animate__animated animate__fadeInLeft">
+            <img
+              src="./img/easy-cooking-with-chef-best-seller-cookbook-poster-template.webp"
+              alt="food"
+              style={{ width: "50%", position: "inherit" }}
+            />
+          </div>
+          <div className="col-8 col-lg-4 d-flex flex-column d-lg-block justify-content-center align-self-center animate__animated animate__fadeInRight">
+            <h2
+              className="text-center text-lg-start fs-1"
+              style={{ color: "#3f3a3a" }}
+            >
+              Order My Brand New Cookbook!
+            </h2>
+            <hr className="opacity-100" />
+            <p
+              style={{ color: "#3f3a3a" }}
+              className="text-center text-lg-start"
+            >
+              Elevate your dessert game with my new cookbook—packed with bold,
+              modern recipes for every occasion. Order now!
+            </p>
+            <Link
+              to="/order"
+              className="btn btn-lg"
+              style={{ backgroundColor: "#efc81a", color: "#fff" }}
+            >
+              Order Now!
             </Link>
           </div>
         </div>
@@ -255,14 +290,14 @@ function Home() {
                 id={item?.id}
                 key={index}
               />
-            )
+            );
           })}
         </div>
       </div>
 
       <Footer />
     </div>
-  )
+  );
 }
 
 export default Home

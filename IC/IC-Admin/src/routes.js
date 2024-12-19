@@ -6,6 +6,9 @@ import NFTMarketplace from "views/admin/marketplace";
 import Profile from "views/admin/profile";
 import DataTables from "views/admin/tables";
 import RTLDefault from "views/rtl/default";
+import CreateOrderForm from "views/admin/tables/createOrderForm";
+import EditOrderForm from "views/admin/tables/editOrderForm";
+
 
 // Auth Imports
 import SignIn from "views/auth/SignIn";
@@ -41,6 +44,18 @@ const routes = [
     icon: <MdBarChart className="h-6 w-6" />,
     path: "data-tables",
     component: <DataTables />,
+  },
+  {
+    path: "create-order",
+    layout: "/admin",
+    component: <CreateOrderForm />,
+    name: "Create Order",
+  },
+  {
+    path: "edit-order/:id", 
+    layout: "/admin",
+    component: <EditOrderForm />,
+    name: "Edit Order",
   },
   {
     name: "Profile",

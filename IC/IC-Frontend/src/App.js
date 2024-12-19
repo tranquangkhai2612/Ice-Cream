@@ -21,7 +21,7 @@ import DetailRecipe from "./pages/DetailRecipe"
 import DetailVideoStep from "./pages/DetailVideoStep"
 import EditProfile from "./pages/EditProfile"
 import EditRecipe from "./pages/EditRecipe"
-
+import OrderPage from "./pages/Order"
 const router = createBrowserRouter([
   {
     path: "/",
@@ -38,6 +38,10 @@ const router = createBrowserRouter([
   {
     path: "/login",
     element: <Login />,
+  },
+  {
+    path: "/order",
+    element: <OrderPage />,
   },
   {
     path: "/forgot-password",
@@ -71,7 +75,7 @@ const router = createBrowserRouter([
     path: "/edit-recipe/:id",
     element: <EditRecipe />,
   },
-])
+]);
 
 function App() {
   return (

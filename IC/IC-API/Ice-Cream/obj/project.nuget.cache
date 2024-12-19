@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQP/49mg+hU=",
+  "dgSpecHash": "BdlOREy4NOo=",
   "success": true,
-  "projectFilePath": "/Users/trantien/Downloads/Project/My Ice-Cream/Api/Ice-Cream/Ice-Cream.csproj",
+  "projectFilePath": "/Users/trantien/Downloads/Project/Ice-Cream/IC/IC-API/Ice-Cream/Ice-Cream.csproj",
   "expectedPackageFiles": [
     "/Users/trantien/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/trantien/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
