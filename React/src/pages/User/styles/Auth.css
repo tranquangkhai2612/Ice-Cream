@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    width: 100% !important;
+}
+
+.left-col {
+    margin: 0;
+    padding: 0;
+    background-color: #EFC81A;
+    background-image: url("../../public/img/Mask-Group.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: #EFC81A;
+}
