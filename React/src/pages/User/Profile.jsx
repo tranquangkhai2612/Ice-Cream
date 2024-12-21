@@ -43,7 +43,7 @@ function Profile() {
   };
 
   return (
-    <div>
+    <div className="container py-5 mb-5">
       <div className="container py-5 mb-5">
         <div className="row justify-content-center pb-5">
           <div className="col text-center">
@@ -71,6 +71,7 @@ function Profile() {
                   type="password"
                   className="form-control"
                   id="oldPassword"
+                  placeholder="Enter Old Password"
                   value={oldPassword}
                   onChange={(e) => setOldPassword(e.target.value)}
                   required

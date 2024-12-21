@@ -3,7 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import userServices from "../../services/userServices";
 
 function ResetPassword() {
-  const { email, token } = useParams(); // Lấy email và token từ URL
+  const { email, token } = useParams();
   const [newPassword, setNewPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
   const [error, setError] = useState(null);
