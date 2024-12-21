@@ -9,6 +9,7 @@ import Profile from './pages/User/Profile';
 import ForgotPassword from './pages/User/ForgotPassword';
 import Home from './pages/User/Home';
 import ResetPassword from './pages/User/ResetPassword';
+import ContactUs from "./pages/User/ContactUs";
 // import RtlLayout from "layouts/rtl";
 // import AdminLayout from "layouts/admin";
 // import AuthLayout from "layouts/auth";
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/reset-password/:email/:token" element={<ResetPassword />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/" element={<Home />} />
+        <Route path="/contact-us" element={<ContactUs />} />
         {/* <Route path="auth/*" element={<AuthLayout />} />
         <Route path="admin/*" element={<AdminLayout />} />
         <Route path="rtl/*" element={<RtlLayout />} /> */}
