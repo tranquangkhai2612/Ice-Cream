@@ -16,6 +16,7 @@ namespace Ice_Cream.Controllers
         private readonly AppDbContext _context;
 
         private readonly string Ice_Cream_HostAddress = "http://localhost:5099";
+        private readonly string Ice_Cream_React = "http://localhost:5173";
         public AccountController(AppDbContext context)
         {
             _context = context;
@@ -41,9 +42,7 @@ namespace Ice_Cream.Controllers
                 Role = "User",
                 Active = "false",
                 Block = "false",
-                //CreateAt = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss"),
-                //SubcriptionStart = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss"),
-                //SubcriptionEnd = DateTime.UtcNow.AddMonths(1).ToString("yyyy-MM-dd HH:mm:ss"),
+                CreateAt = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss"),
                 Token = verificationToken, 
                 TokenExpiry = DateTime.UtcNow.AddHours(1)
             };
@@ -92,15 +91,44 @@ namespace Ice_Cream.Controllers
             if (account.Active != "true" || account.Block != "false")
                 return Unauthorized("Account is either inactive or blocked!");
 
-            return Ok(new { message = "Login successful!" });
+            return Ok(new
+            {
+                message = "Login successful!",
+                role = account.Role,
+                username = account.Username,
+                password = account.Password,
+                email = account.Email,
+                address = account.Address,
+                supscriptionId = account.SubscriptionId,
+                supscriptionStart = account.SubcriptionStart,
+                supscriptionEnd = account.SubcriptionEnd,
+                createdAt = account.CreateAt,
+            });
         }
 
-        [HttpPost("forgot-password")]
-        public async Task<IActionResult> ForgotPassword(string email)
+        [HttpGet("users")]
+        public async Task<IActionResult> GetAllUsers()
         {
-            var account = await _context.Accounts.FirstOrDefaultAsync(a => a.Email == email);
+            var users = await _context.Accounts
+                .Where(a => a.Role == "User")
+                .OrderByDescending(a => a.CreateAt)
+                .ToListAsync();
+
+            if (!users.Any())
+                return NotFound("No users found.");
+
+            return Ok(users);
+        }
+
+
+        [HttpPost("forgot-password")]
+        public async Task<IActionResult> ForgotPassword(ForgotPassword dto)
+        {
+            var account = await _context.Accounts.FirstOrDefaultAsync(a => a.Email == dto.Email);
             if (account == null)
                 return NotFound("Email not registered!");
+            if(account.Active == "false")
+                return NotFound("Account is not actived");
 
             // Tạo mã đặt lại mật khẩu
             var resetToken = Guid.NewGuid().ToString();
@@ -110,8 +138,8 @@ namespace Ice_Cream.Controllers
             await _context.SaveChangesAsync();
 
             // Gửi email chứa liên kết đặt lại mật khẩu
-            var resetLink = $"{Ice_Cream_HostAddress}/api/account/reset-password?email={email}&token={resetToken}";
-            await SendEmailAsync(email, "Reset Password",
+            var resetLink = $"{Ice_Cream_React}/reset-password/{dto.Email}/{resetToken}";
+            await SendEmailAsync(dto.Email, "Reset Password",
                 $"Click the link to reset your password: {resetLink}");
 
             return Ok("Password reset link has been sent to your email.");
@@ -119,25 +147,35 @@ namespace Ice_Cream.Controllers
 
 
         [HttpPost("reset-password")]
-        public async Task<IActionResult> ResetPassword(string email, string token, string newPassword)
+        public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordDto dto)
         {
-            var account = await _context.Accounts.FirstOrDefaultAsync(a => a.Email == email);
-            if (account == null)
-                return NotFound("Account not found!");
+            Account? account = null;
 
-            // Kiểm tra mã token và thời hạn hiệu lực
-            if (account.Token != token || account.TokenExpiry < DateTime.UtcNow)
-                return BadRequest("Invalid or expired token!");
+            if (!string.IsNullOrEmpty(dto.Username) && !string.IsNullOrEmpty(dto.OldPassword))
+            {
+                account = await _context.Accounts.FirstOrDefaultAsync(a => a.Username == dto.Username);
+                if (account == null || !BCrypt.Net.BCrypt.Verify(dto.OldPassword, account.Password))
+                    return Unauthorized("Invalid username or password!");
+            }
+            else if (!string.IsNullOrEmpty(dto.Email) && !string.IsNullOrEmpty(dto.Token))
+            {
+                account = await _context.Accounts.FirstOrDefaultAsync(a => a.Email == dto.Email);
+                if (account == null)
+                    return NotFound("Account not found!");
 
-            // Đặt lại mật khẩu
-            account.Password = BCrypt.Net.BCrypt.HashPassword(newPassword);
+                if (account.Token != dto.Token || account.TokenExpiry < DateTime.UtcNow)
+                    return BadRequest("Invalid or expired token!");
+            }
+            else
+            {
+                return BadRequest("Invalid request. Provide either username and old password or email and token.");
+            }
 
-            // Xóa token sau khi sử dụng
+            account.Password = BCrypt.Net.BCrypt.HashPassword(dto.NewPassword);
             account.Token = null;
             account.TokenExpiry = null;
 
             await _context.SaveChangesAsync();
-
             return Ok("Password has been reset successfully!");
         }
 

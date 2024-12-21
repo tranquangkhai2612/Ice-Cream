@@ -1,0 +1,20 @@
+.recipe-picture {
+    width: 50vw;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .recipe-picture {
+        width: 80vw;
+        height: 40vh;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .recipe-picture {
+        width: 80vw;
+        height: 40vh;
+    }
+}

@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\migrations\\20241212120951_project3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:migrations\\20241212120951_project3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\migrations\\20241212120951_project3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:migrations\\20241212120951_project3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:dto\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\ice-cream.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -45,31 +65,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "Models\\Account.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
-              "RelativeToolTip": "Models\\Account.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "20241212120951_project3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\20241212120951_project3.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212120951_project3.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\20241212120951_project3.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241212120951_project3.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:52:59.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ice-Cream.http",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.http",
-              "RelativeDocumentMoniker": "Ice-Cream.http",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.http",
-              "RelativeToolTip": "Ice-Cream.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-04T16:45:40.968Z"
+              "WhenOpened": "2024-12-21T07:44:22.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,26 +88,64 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAuwIcAAAAhAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowGgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T18:22:07.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAADAAAA",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:31:25.78Z"
+              "WhenOpened": "2024-12-03T18:26:08.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T08:33:33.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DB\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DB\\AppDbContext.cs",
+              "RelativeToolTip": "DB\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:22:04.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241212120951_project3.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\20241212120951_project3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241212120951_project3.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\20241212120951_project3.cs",
+              "RelativeToolTip": "Migrations\\20241212120951_project3.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:09:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTO\\RegisterDto.cs",
@@ -110,31 +157,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "DTO\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\ForgotPassword.cs",
+              "RelativeToolTip": "DTO\\ForgotPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:19:46.374Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\LoginDTO.cs",
-              "RelativeToolTip": "DTO\\LoginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\ResetPasswordDto.cs",
+              "RelativeToolTip": "DTO\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:26:08.469Z"
+              "WhenOpened": "2024-12-17T18:02:43.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DB\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DB\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DB\\AppDbContext.cs",
-              "RelativeToolTip": "DB\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:22:04.192Z"
+              "WhenOpened": "2024-12-04T16:52:59.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T10:31:57.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ice-Cream.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.http",
+              "RelativeDocumentMoniker": "Ice-Cream.http",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.http",
+              "RelativeToolTip": "Ice-Cream.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-04T16:45:40.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:31:25.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20241203190642_project3.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\Migrations\\20241203190642_project3.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\Migrations\\20241203190642_project3.cs",
@@ -143,18 +238,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T19:06:42.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-03T08:33:33.808Z"
             }
           ]
         }

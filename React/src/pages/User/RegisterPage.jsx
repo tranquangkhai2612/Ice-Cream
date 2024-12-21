@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import userServices from "./../../services/userServices";
-
+import {Link,useNavigate} from "react-router-dom";
 import "./styles/Auth.css";
 const RegisterPage = () => {
   const [userData, setUserData] = useState({
@@ -63,7 +63,18 @@ const RegisterPage = () => {
   };
 
   return (
-    <div>
+    <div className="overflow-x-hidden">
+      <div className="row flex-column flex-md-row vh-100">
+        <Link
+          to="/"
+          className="col p-4 left-col d-flex justify-content-center align-items-center"
+        >
+          <img
+            className="image-fluid w-25 animate__animated animate__fadeInUp"
+            src="./img/Group-697.webp"
+            alt="Mama-Recipe-Logo"
+          />
+        </Link>
       <div className="col p-4 d-flex flex-column justify-content-center m-0 py-5 animate__animated animate__fadeInDown">
         <h1 className="text-center">Let's Get Started!</h1>
         <p className="text-center text-secondary">
@@ -79,6 +90,7 @@ const RegisterPage = () => {
                 </label>
                 <input
                   type="text"
+                  className="form-control"
                   name="username"
                   placeholder="Username"
                   value={userData.username}
@@ -93,6 +105,7 @@ const RegisterPage = () => {
                 </label>
                 <input
                   type="password"
+                  className="form-control"
                   name="password"
                   placeholder="Password"
                   value={userData.password}
@@ -107,6 +120,7 @@ const RegisterPage = () => {
                 </label>
                 <input
                   type="email"
+                  className="form-control"
                   name="email"
                   placeholder="Email"
                   value={userData.email}
@@ -121,6 +135,7 @@ const RegisterPage = () => {
                 </label>
                 <input
                   type="text"
+                  className="form-control"
                   name="address"
                   placeholder="Address"
                   value={userData.address}
@@ -134,7 +149,7 @@ const RegisterPage = () => {
                   type="submit"
                   className="btn"
                   style={{ backgroundColor: "#efc81a", color: "white" }}
-                >
+                >Register
                 </button>
                 {message && <p style={{ color: "green" }}>{message}</p>}
                 {error && (
@@ -148,9 +163,10 @@ const RegisterPage = () => {
           </div>
         </div>
       </div>
-      <h1>Register</h1>
       <form onSubmit={handleSubmit}></form>
     </div>
+    </div>
+
   );
 };
 

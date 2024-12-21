@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Ice_Cream.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241209105435_project3")]
+    [Migration("20241212120951_project3")]
     partial class project3
     {
         /// <inheritdoc />

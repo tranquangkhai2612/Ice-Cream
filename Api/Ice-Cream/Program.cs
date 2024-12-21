@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using System.Net.Mail;
 
 var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -14,6 +13,17 @@ var connectionString = builder.Configuration.GetConnectionString("MySqlConn");
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+});
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+         policy => 
+         {
+             policy.AllowAnyOrigin()
+             .AllowAnyMethod()
+             .AllowAnyHeader();
+         }
+        );
 });
 builder.Services.AddTransient<SmtpClient>();
 builder.Services.AddDistributedMemoryCache();
@@ -32,6 +42,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseCors();
 
 app.UseHttpsRedirection();
 
