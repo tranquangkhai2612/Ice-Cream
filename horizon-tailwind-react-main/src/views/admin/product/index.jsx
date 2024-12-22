@@ -14,7 +14,7 @@ import DevelopmentTable from "./components/DevelopmentTable";
 import ColumnsTable from "./components/ColumnsTable";
 import ComplexTable from "./components/ComplexTable";
 
-const Tables = () => {
+const Product = () => {
   return (
     <div>
       
@@ -22,4 +22,4 @@ const Tables = () => {
   );
 };
 
-export default Tables;
+export default Product;
