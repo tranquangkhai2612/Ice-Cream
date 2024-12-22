@@ -11,7 +11,7 @@ function Footer() {
           Eat, Cook, Repeat
         </h1>
         <p className="fs-6">Share your best recipe by uploading here!</p>
-        {/* <ul className="navbar-nav d-flex flex-md-row gap-md-4 fs-6 text-center">
+        <ul className="navbar-nav d-flex flex-md-row gap-md-4 fs-6 text-center">
           <li className="nav-item">
             <a className="nav-link" href="/">
               Product
@@ -32,17 +32,7 @@ function Footer() {
               Get In Touch
             </a>
           </li>
-        </ul> */}
-        <p className="mt-3">
-          Made by{" "}
-          <a
-            className="text-decoration-none fs-6"
-            style={{ color: "#2e266f" }}
-            href="https://github.com/alkarim99"
-          >
-            Abdullah Al-Karim Amrullah
-          </a>
-        </p>
+        </ul>
       </footer>
     </>
   )

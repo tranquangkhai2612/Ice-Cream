@@ -105,7 +105,27 @@ namespace Ice_Cream.Controllers
                 createdAt = account.CreateAt,
             });
         }
+        [HttpPost("block-user")]
+        public async Task<IActionResult> BlockUser([FromBody] BlockUserDto dto)
+        {
+            var account = await _context.Accounts.FirstOrDefaultAsync(a => a.Id == dto.UserId);
+            if (account == null)
+            {
+                return NotFound("User not found!");
+            }
 
+            if (account.Block == "true")
+            {
+                account.Block = "false";
+            }else {
+                account.Block = "true";
+            }
+
+            await _context.SaveChangesAsync();
+
+            return Ok($"User has been {(account.Block == "true" ? "blocked" : "unblocked")} successfully!");
+
+        }
         [HttpGet("users")]
         public async Task<IActionResult> GetAllUsers()
         {

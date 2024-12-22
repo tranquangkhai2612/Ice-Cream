@@ -89,17 +89,20 @@ const RegisterPage = () => {
       );
       setError(null);
     } catch (err) {
+      const message =
+        error.response?.data?.message || "Register Failed. Please try again.";
       if (message === "Email already exists!") {
         setErrorMessage("Email already exists!");
-      }
-      if (message === "Username already exists!") {
+      } else if (message === "Username already exists!") {
         setErrorMessage("Username already exists!");
-      }
-      console.error("Registration Error:", err);
+      } else {
+        console.error("Registration Error:", err);
       setError(
         err.response?.data?.message || err.message || "Registration failed"
       );
+      }
     }
+    navigator('/login')
   };
   
   return (
@@ -203,6 +206,17 @@ const RegisterPage = () => {
               </form>
             </div>
           </div>
+          <p className="text-center mt-3">
+            Already have account?
+            <Link
+              to="/login"
+              className="text-decoration-none"
+              style={{ color: "#efc81a" }}
+            >
+              {" "}
+              Log in Here
+            </Link>
+          </p>
         </div>
       </div>
     </div>

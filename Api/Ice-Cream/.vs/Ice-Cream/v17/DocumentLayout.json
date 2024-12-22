@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\dto\\blockuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:dto\\blockuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|c:\\users\\admin\\documents\\github\\ice-cream\\api\\ice-cream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB1230D6-6180-44F9-867F-9A274151B173}|Ice-Cream.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,11 +73,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "BlockUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\BlockUserDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BlockUserDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\BlockUserDto.cs",
+              "RelativeToolTip": "DTO\\BlockUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:49:30.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -91,14 +107,14 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwHkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T18:22:07.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -110,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DB\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DB\\AppDbContext.cs",
@@ -122,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\RegisterDto.cs",
               "RelativeDocumentMoniker": "DTO\\RegisterDto.cs",
@@ -134,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
@@ -146,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -154,12 +170,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:31:25.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T08:31:25.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20241212120951_project3.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\20241212120951_project3.cs",
               "RelativeDocumentMoniker": "Migrations\\20241212120951_project3.cs",
@@ -171,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
@@ -183,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20241212120951_project3.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Migrations\\20241212120951_project3.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20241212120951_project3.Designer.cs",
@@ -195,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ForgotPassword.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\ForgotPassword.cs",
               "RelativeDocumentMoniker": "DTO\\ForgotPassword.cs",
@@ -207,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ResetPasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\DTO\\ResetPasswordDto.cs",
               "RelativeDocumentMoniker": "DTO\\ResetPasswordDto.cs",
@@ -219,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -231,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Ice-Cream.http",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\Ice-Cream\\Api\\Ice-Cream\\Ice-Cream.http",
               "RelativeDocumentMoniker": "Ice-Cream.http",
@@ -243,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20241203190642_project3.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\Migrations\\20241203190642_project3.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Aptech\\Ice-Cream\\Ice-Cream\\Migrations\\20241203190642_project3.cs",

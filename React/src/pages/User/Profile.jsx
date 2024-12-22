@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import userServices from "../../services/userServices";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import "./styles/Profile.css"
 function Profile() {
   const navigate = useNavigate();
@@ -43,13 +45,16 @@ function Profile() {
   };
 
   return (
-    <div className="container py-5 mb-5">
+    <div>
+      <Navbar/>
+<div className="container py-5 mb-5">
       <div className="container py-5 mb-5">
         <div className="row justify-content-center pb-5">
           <div className="col text-center">
             <h3>{profile?.username || "User"}</h3>
             <p>Email: {profile?.email}</p>
             <p>Address: {profile?.address}</p>
+            <p>Membership: {profile?.supscriptionId.SubType}</p>
           </div>
         </div>
         <div className="row">
@@ -111,6 +116,9 @@ function Profile() {
         </div>
       </div>
     </div>
+    <Footer/>
+    </div>
+    
   );
 }
 

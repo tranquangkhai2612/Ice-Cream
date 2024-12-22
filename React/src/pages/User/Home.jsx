@@ -11,7 +11,7 @@ function Home() {
 
   return (
     <div>
-
+      <Navbar/>
       <div className="right-layer animate__animated animate__fadeIn"></div>
 
       <div className="container mt-4" style={{ height: "600px" }}>
@@ -180,7 +180,7 @@ function Home() {
       >
        
       </div>
-
+      <Footer/>
     </div>
   )
 }
