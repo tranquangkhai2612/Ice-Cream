@@ -4,13 +4,11 @@ import { Link, useNavigate } from "react-router-dom";
 function Navbar() {
   const navigate = useNavigate();
 
-  // Check auth state directly from localStorage
   const isAuthenticated = !!localStorage.getItem("user");
 
   const handleLogout = () => {
-    // Clear user data
     localStorage.clear();
-    navigate("/"); // Redirect to home
+    navigate("/"); 
   };
 
   return (
@@ -43,10 +41,37 @@ function Navbar() {
               <li className="nav-item">
                 <Link
                   className="nav-link"
-                  to="/add-recipe"
+                  to="/product"
                   style={{ color: "#2e266f" }}
                 >
-                  Add Recipe
+                  Product
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  className="nav-link"
+                  to="/about-us"
+                  style={{ color: "#2e266f" }}
+                >
+                  About-Us
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  className="nav-link"
+                  to="/contact-us"
+                  style={{ color: "#2e266f" }}
+                >
+                  Contact Us
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  className="nav-link"
+                  to="/order"
+                  style={{ color: "#2e266f" }}
+                >
+                  Order
                 </Link>
               </li>
               <li className="nav-item">
