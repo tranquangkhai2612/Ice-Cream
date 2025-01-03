@@ -8,6 +8,7 @@ function Navbar() {
 
   const handleLogout = () => {
     localStorage.clear();
+    window.location.reload();
     navigate("/"); 
   };
 
@@ -41,10 +42,19 @@ function Navbar() {
               <li className="nav-item">
                 <Link
                   className="nav-link"
-                  to="/product"
+                  to="/recipe"
                   style={{ color: "#2e266f" }}
                 >
-                  Product
+                  Recipe
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  className="nav-link"
+                  to="/book"
+                  style={{ color: "#2e266f" }}
+                >
+                  Book
                 </Link>
               </li>
               <li className="nav-item">
@@ -63,6 +73,15 @@ function Navbar() {
                   style={{ color: "#2e266f" }}
                 >
                   Contact Us
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  className="nav-link"
+                  to="/faq"
+                  style={{ color: "#2e266f" }}
+                >
+                  FAQ
                 </Link>
               </li>
               <li className="nav-item">

@@ -1,0 +1,116 @@
+/* Container for the entire FAQ detail page */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* FAQ Title */
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* FAQ Answer */
+  .answer {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  /* Comments Section */
+  .comments {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .comments li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .comments li strong {
+    color: #222;
+    font-weight: bold;
+  }
+  
+  .comments li p {
+    margin: 5px 0 0;
+    color: #555;
+  }
+  
+  /* Add Comment Section */
+  .addComment {
+    margin-top: 30px;
+  }
+  
+  .addComment h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .formGroup {
+    margin-bottom: 15px;
+  }
+  
+  .formGroup label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #444;
+  }
+  
+  .input,
+  .textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .input:focus,
+  .textarea:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  .textarea {
+    height: 100px;
+    resize: none;
+  }
+  
+  /* Submit Button */
+  .button {
+    padding: 10px 15px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #218838;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #218838;
+}
+  
+  /* Error Message */
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  

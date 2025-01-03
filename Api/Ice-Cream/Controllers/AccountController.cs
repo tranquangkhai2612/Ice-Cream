@@ -94,14 +94,15 @@ namespace Ice_Cream.Controllers
             return Ok(new
             {
                 message = "Login successful!",
+                id = account.Id,
                 role = account.Role,
                 username = account.Username,
                 password = account.Password,
                 email = account.Email,
                 address = account.Address,
-                supscriptionId = account.SubscriptionId,
-                supscriptionStart = account.SubcriptionStart,
-                supscriptionEnd = account.SubcriptionEnd,
+                subscriptionId = account.SubscriptionId,
+                subscriptionStart = account.SubcriptionStart,
+                subscriptionEnd = account.SubcriptionEnd,
                 createdAt = account.CreateAt,
             });
         }
@@ -114,18 +115,24 @@ namespace Ice_Cream.Controllers
                 return NotFound("User not found!");
             }
 
-            if (account.Block == "true")
-            {
-                account.Block = "false";
-            }else {
-                account.Block = "true";
-            }
+            bool isBlocked = account.Block == "true";
+
+            // Toggle block status
+            account.Block = isBlocked ? "false" : "true";
 
             await _context.SaveChangesAsync();
 
-            return Ok($"User has been {(account.Block == "true" ? "blocked" : "unblocked")} successfully!");
+            // Prepare email content based on block status
+            string subject = isBlocked ? "Account Unblocked" : "Account Blocked";
+            string message = isBlocked
+                ? "Your account has been unblocked. You can now log in and use the platform."
+                : "Your account has been blocked due to policy violations or administrative reasons. If you believe this is a mistake, please contact support.";
 
+            await SendEmailAsync(account.Email, subject, message);
+
+            return Ok($"User has been {(account.Block == "true" ? "blocked" : "unblocked")} successfully!");
         }
+
         [HttpGet("users")]
         public async Task<IActionResult> GetAllUsers()
         {

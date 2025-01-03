@@ -10,7 +10,7 @@ const ForgotPassword = () => {
   const [isLoading, setIsLoading] = useState(false);
 
   const handleSendToken = async (e) => {
-    e.preventDefault();
+    e.preventDefault(); // Prevent form submission
     setError(null);
     setMessage(null);
     setIsLoading(true);
@@ -49,13 +49,7 @@ const ForgotPassword = () => {
             <div className="row m-0 p-0 justify-content-start justify-content-md-center">
               <div className="col col-md-8">
                 <hr />
-                <form
-                  onSubmit={(e) => {
-                    e.preventDefault();
-                    handleSendToken();
-                  }}
-                  noValidate
-                >
+                <form onSubmit={handleSendToken} noValidate>
                   {message && (
                     <div className="alert alert-success" role="alert">
                       {message}

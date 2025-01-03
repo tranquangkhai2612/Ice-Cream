@@ -1,7 +1,8 @@
 body{
     width: 100% !important;
-    margin: 0;
-    padding: 0;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 hr {
@@ -9,8 +10,8 @@ hr {
 }
 
 .left-col {
-    margin: 0;
-    padding: 0;
+    margin: 0 !important;
+    padding: 0 !important;
     background-color: #EFC81A;
     background-image: url("./../../../../public/img/Mask-Group.webp");
     background-size: cover;

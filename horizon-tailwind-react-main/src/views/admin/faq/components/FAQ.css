@@ -1,0 +1,136 @@
+.faq-container {
+   /* Increased width */
+  margin-top: 50px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.add-button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.add-button:hover {
+  background-color: #218838;
+}
+
+.add-button:active {
+  background-color: #1e7e34;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.faq-table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.faq-table th,
+.faq-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.faq-table th {
+  background-color: #f2f2f2;
+}
+
+.actions {
+  display: flex;
+  gap: 10px; /* To keep buttons side by side */
+}
+
+.edit-button,
+.delete-button {
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.edit-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+}
+
+.edit-button:active {
+  background-color: #004085;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
+
+.delete-button:active {
+  background-color: #bd2130;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.pagination-button {
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.pagination-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.pagination-button:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.pagination-button:active {
+  background-color: #0056b3;
+}

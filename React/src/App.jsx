@@ -13,6 +13,12 @@ import AboutUs from "./pages/User/AboutUs";
 import Order from "./pages/User/Order"
 import ContactUs from "./pages/User/ContactUs";
 import Product from "./pages/User/Product";
+import ProductDetail from "./pages/User/ProductDetail";
+import FAQ from "./pages/User/FAQ.jsx";
+import FAQDetail from "./pages/User/FAQdetail";
+import Book from "./pages/User/Book";
+import BookDetail from "./pages/User/BookDetail";
+import OrderBill from "./pages/User/OrderBill";
 const App = () => {
   return (
     <Router>
@@ -20,13 +26,22 @@ const App = () => {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />
-        <Route path="/reset-password/:email/:token" element={<ResetPassword />} />
+        <Route
+          path="/reset-password/:email/:token"
+          element={<ResetPassword />}
+        />
         <Route path="/profile" element={<Profile />} />
         <Route path="/about-us" element={<AboutUs />} />
         <Route path="/contact-us" element={<ContactUs />} />
         <Route path="/order" element={<Order />} />
-        <Route path="/product" element={<Product />} />
+        <Route path="/detail-recipe/:id" element={<ProductDetail />} />
+        <Route path="/recipe" element={<Product />} />
         <Route path="/" index element={<Home />} />
+        <Route path="/faq" element={<FAQ />} />
+        <Route path="/faq/:id" element={<FAQDetail />} />
+        <Route path="/Book" element={<Book />} />
+        <Route path="/detail-book/:id" element={<BookDetail />} />
+        <Route path="/bill/:orderId" element={<OrderBill />} />
       </Routes>
     </Router>
   );

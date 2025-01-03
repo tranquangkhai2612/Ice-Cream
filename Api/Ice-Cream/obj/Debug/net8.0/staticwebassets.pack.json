@@ -1,0 +1,549 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/01c82f99-6c73-41b1-9d8c-53b5debb07cf.jpg",
+      "PackagePath": "staticwebassets/uploads/01c82f99-6c73-41b1-9d8c-53b5debb07cf.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/01e3b3fc-d014-4b50-8b52-39c1494b19c1.jpg",
+      "PackagePath": "staticwebassets/uploads/01e3b3fc-d014-4b50-8b52-39c1494b19c1.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/03a921fa-6bfd-4685-8a20-13eb1bf6471c.webp",
+      "PackagePath": "staticwebassets/uploads/03a921fa-6bfd-4685-8a20-13eb1bf6471c.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/04287f98-adb6-4331-8b53-74236e75ad1a.webp",
+      "PackagePath": "staticwebassets/uploads/04287f98-adb6-4331-8b53-74236e75ad1a.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/05181008-ceb1-4f31-93cb-0690dfc1f2cd.jpg",
+      "PackagePath": "staticwebassets/uploads/05181008-ceb1-4f31-93cb-0690dfc1f2cd.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/0a396a91-cbb3-46c2-855f-b3471a846247.jpg",
+      "PackagePath": "staticwebassets/uploads/0a396a91-cbb3-46c2-855f-b3471a846247.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/0b9dfb53-2acd-4c3a-b224-df6fdb0f8172.jpg",
+      "PackagePath": "staticwebassets/uploads/0b9dfb53-2acd-4c3a-b224-df6fdb0f8172.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/0fa560c1-f31b-4abc-bd38-68511381b02c.webp",
+      "PackagePath": "staticwebassets/uploads/0fa560c1-f31b-4abc-bd38-68511381b02c.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/13201cb6-eaa0-49c0-a25f-a03d06837202.jpg",
+      "PackagePath": "staticwebassets/uploads/13201cb6-eaa0-49c0-a25f-a03d06837202.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/14cb0fd5-7ef2-4749-a3db-004640e63ccc.webp",
+      "PackagePath": "staticwebassets/uploads/14cb0fd5-7ef2-4749-a3db-004640e63ccc.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/152152fb-e055-47d5-ad1c-86a55afaf4f4.jpg",
+      "PackagePath": "staticwebassets/uploads/152152fb-e055-47d5-ad1c-86a55afaf4f4.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/1765b822-056f-4be0-9601-7527afd8ca71.webp",
+      "PackagePath": "staticwebassets/uploads/1765b822-056f-4be0-9601-7527afd8ca71.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/190_header.jpg",
+      "PackagePath": "staticwebassets/uploads/190_header.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/1dcc9779-59e5-4546-90ef-c07ce8dd0486.jpg",
+      "PackagePath": "staticwebassets/uploads/1dcc9779-59e5-4546-90ef-c07ce8dd0486.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/1e15a1bf-825e-44bb-bb7d-fe184b1b1f4d.jpg",
+      "PackagePath": "staticwebassets/uploads/1e15a1bf-825e-44bb-bb7d-fe184b1b1f4d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/1f222e01-6b7d-4422-9c70-de22d02156ed.jpg",
+      "PackagePath": "staticwebassets/uploads/1f222e01-6b7d-4422-9c70-de22d02156ed.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/1fe5ab70-a52e-45d7-a5ad-38fe151b21a4.jpg",
+      "PackagePath": "staticwebassets/uploads/1fe5ab70-a52e-45d7-a5ad-38fe151b21a4.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/24294a1d-82de-4287-8574-1b94df5cf41f.jpg",
+      "PackagePath": "staticwebassets/uploads/24294a1d-82de-4287-8574-1b94df5cf41f.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/24c8fc31-8598-4e3e-9d89-ad56afa3a669.jpg",
+      "PackagePath": "staticwebassets/uploads/24c8fc31-8598-4e3e-9d89-ad56afa3a669.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/25325015-e256-4a48-b1ae-10a8513271f5.jpg",
+      "PackagePath": "staticwebassets/uploads/25325015-e256-4a48-b1ae-10a8513271f5.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/275021ba-c81d-4c4c-a225-2e9f52ff4997.jpg",
+      "PackagePath": "staticwebassets/uploads/275021ba-c81d-4c4c-a225-2e9f52ff4997.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/2992f3a2-739f-430e-a9dd-2e8c1854496d.jpg",
+      "PackagePath": "staticwebassets/uploads/2992f3a2-739f-430e-a9dd-2e8c1854496d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/2d385134-3eff-4502-afef-b08546b8c1ce.jpg",
+      "PackagePath": "staticwebassets/uploads/2d385134-3eff-4502-afef-b08546b8c1ce.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/2ee6ca05-4afe-4bbb-a15e-f7d375d48f86.avif",
+      "PackagePath": "staticwebassets/uploads/2ee6ca05-4afe-4bbb-a15e-f7d375d48f86.avif"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/316820be-4a25-4653-85a0-9d63ea51bf1e.jpg",
+      "PackagePath": "staticwebassets/uploads/316820be-4a25-4653-85a0-9d63ea51bf1e.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/32e674a4-03ad-4df4-a6ef-f92b98bf79fe.jpg",
+      "PackagePath": "staticwebassets/uploads/32e674a4-03ad-4df4-a6ef-f92b98bf79fe.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/346fed20-ac56-4328-996b-c221504be0d2.webp",
+      "PackagePath": "staticwebassets/uploads/346fed20-ac56-4328-996b-c221504be0d2.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/36f8bdc4-f48a-4378-9e10-9ea8ce42163e.jpg",
+      "PackagePath": "staticwebassets/uploads/36f8bdc4-f48a-4378-9e10-9ea8ce42163e.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/37822ed6-486f-4512-8095-41ba6890025b.jpeg",
+      "PackagePath": "staticwebassets/uploads/37822ed6-486f-4512-8095-41ba6890025b.jpeg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/3a056a38-4ea2-4beb-9539-581e1d985154.jpg",
+      "PackagePath": "staticwebassets/uploads/3a056a38-4ea2-4beb-9539-581e1d985154.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/3c37cc47-b4c5-4ed1-a46e-6b3b1f804321.jpg",
+      "PackagePath": "staticwebassets/uploads/3c37cc47-b4c5-4ed1-a46e-6b3b1f804321.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/3f9eb48a-4e09-4f5c-a12e-c0cf3175a2ce.jpg",
+      "PackagePath": "staticwebassets/uploads/3f9eb48a-4e09-4f5c-a12e-c0cf3175a2ce.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/40768bdc-bd7c-47eb-8791-baed2ad71df7.png",
+      "PackagePath": "staticwebassets/uploads/40768bdc-bd7c-47eb-8791-baed2ad71df7.png"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/43c696de-d14a-4e44-8179-20e3b9e94c4d.jpg",
+      "PackagePath": "staticwebassets/uploads/43c696de-d14a-4e44-8179-20e3b9e94c4d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/457ae07e-31a3-4336-86fc-c0ef099a058c.jpg",
+      "PackagePath": "staticwebassets/uploads/457ae07e-31a3-4336-86fc-c0ef099a058c.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/45c2a0d1-e87e-49bf-8a9d-77c12bf2fd3c.jpg",
+      "PackagePath": "staticwebassets/uploads/45c2a0d1-e87e-49bf-8a9d-77c12bf2fd3c.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/45d42d14-235a-47ae-85ca-1d7c7ea72824.jpg",
+      "PackagePath": "staticwebassets/uploads/45d42d14-235a-47ae-85ca-1d7c7ea72824.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/45e3b541-0350-4f10-b321-81aa6090064e.webp",
+      "PackagePath": "staticwebassets/uploads/45e3b541-0350-4f10-b321-81aa6090064e.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/49a68d45-1d71-4659-bc0f-a5edb474931e.webp",
+      "PackagePath": "staticwebassets/uploads/49a68d45-1d71-4659-bc0f-a5edb474931e.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/49c58487-12c9-4046-a309-e625a468d6df.jpg",
+      "PackagePath": "staticwebassets/uploads/49c58487-12c9-4046-a309-e625a468d6df.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/49f363d6-1ec7-42a4-915f-b6fa0c922ae0.jpg",
+      "PackagePath": "staticwebassets/uploads/49f363d6-1ec7-42a4-915f-b6fa0c922ae0.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/4b0bc4a4-714d-42c3-abad-df05e560d935.jpg",
+      "PackagePath": "staticwebassets/uploads/4b0bc4a4-714d-42c3-abad-df05e560d935.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/4e3e24c1-2140-4787-954b-384c307beb2f.jpg",
+      "PackagePath": "staticwebassets/uploads/4e3e24c1-2140-4787-954b-384c307beb2f.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/4e58dfb8-8a11-4c61-8ae5-d2b82e29cf99.jpg",
+      "PackagePath": "staticwebassets/uploads/4e58dfb8-8a11-4c61-8ae5-d2b82e29cf99.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/5174aff0-1123-4316-b179-b5ea85fcc2ed.jpg",
+      "PackagePath": "staticwebassets/uploads/5174aff0-1123-4316-b179-b5ea85fcc2ed.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/51b92b29-9df1-4617-b95d-05381d7049eb.webp",
+      "PackagePath": "staticwebassets/uploads/51b92b29-9df1-4617-b95d-05381d7049eb.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/5a5b97fb-e3a2-44a2-8748-b8463f1a6995.webp",
+      "PackagePath": "staticwebassets/uploads/5a5b97fb-e3a2-44a2-8748-b8463f1a6995.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/6019f64c-5ebc-4c61-a149-d4b1a3448399.webp",
+      "PackagePath": "staticwebassets/uploads/6019f64c-5ebc-4c61-a149-d4b1a3448399.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/642cca1b-d829-4083-b3b1-73aa3c4ae986.webp",
+      "PackagePath": "staticwebassets/uploads/642cca1b-d829-4083-b3b1-73aa3c4ae986.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/64fcbf0c-18b6-4c8b-aa8c-a671dbcca66d.jpg",
+      "PackagePath": "staticwebassets/uploads/64fcbf0c-18b6-4c8b-aa8c-a671dbcca66d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/6b740d0e-9ab3-4c17-aa71-eea1946c4a7c.webp",
+      "PackagePath": "staticwebassets/uploads/6b740d0e-9ab3-4c17-aa71-eea1946c4a7c.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/6b818f9f-eaf8-4100-acd2-697cc69a3687.jpg",
+      "PackagePath": "staticwebassets/uploads/6b818f9f-eaf8-4100-acd2-697cc69a3687.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/6d3b9bea-8a18-400f-8271-034f95978ac8.webp",
+      "PackagePath": "staticwebassets/uploads/6d3b9bea-8a18-400f-8271-034f95978ac8.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/6f7794ee-1c57-441e-ace2-65ed64cda164.webp",
+      "PackagePath": "staticwebassets/uploads/6f7794ee-1c57-441e-ace2-65ed64cda164.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/73178e60-478f-4523-ba7b-15a86e296087.webp",
+      "PackagePath": "staticwebassets/uploads/73178e60-478f-4523-ba7b-15a86e296087.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/75159349-7bd5-47aa-818a-f50cd63bf96d.jpg",
+      "PackagePath": "staticwebassets/uploads/75159349-7bd5-47aa-818a-f50cd63bf96d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/771f7cf0-1d97-43f0-bb9a-95bebb467d6f.webp",
+      "PackagePath": "staticwebassets/uploads/771f7cf0-1d97-43f0-bb9a-95bebb467d6f.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/796aeb3a-34fe-4ac7-a021-045b63b35d02.jpg",
+      "PackagePath": "staticwebassets/uploads/796aeb3a-34fe-4ac7-a021-045b63b35d02.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/7b1a36e4-0421-4b9a-a1e1-27690fb83d40.jpg",
+      "PackagePath": "staticwebassets/uploads/7b1a36e4-0421-4b9a-a1e1-27690fb83d40.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/7c217fa6-0eb1-469d-82e4-7c0365ffde8d.jpg",
+      "PackagePath": "staticwebassets/uploads/7c217fa6-0eb1-469d-82e4-7c0365ffde8d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/7daa81fd-0b2e-4d23-9abc-684d34ece684.jpg",
+      "PackagePath": "staticwebassets/uploads/7daa81fd-0b2e-4d23-9abc-684d34ece684.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/838495be-7dff-49dc-99df-2485777a319a.jpg",
+      "PackagePath": "staticwebassets/uploads/838495be-7dff-49dc-99df-2485777a319a.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/86fb3cd5-ca40-4882-8274-e4ae18bb6dfd.jpg",
+      "PackagePath": "staticwebassets/uploads/86fb3cd5-ca40-4882-8274-e4ae18bb6dfd.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/875af826-ecf7-4b27-8f25-20d0396eb5dc.webp",
+      "PackagePath": "staticwebassets/uploads/875af826-ecf7-4b27-8f25-20d0396eb5dc.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/8b36054c-89f7-4779-bc20-72fc63712241.jpg",
+      "PackagePath": "staticwebassets/uploads/8b36054c-89f7-4779-bc20-72fc63712241.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/8b4a4afb-6753-45a5-9282-4f187eaa71eb.jpg",
+      "PackagePath": "staticwebassets/uploads/8b4a4afb-6753-45a5-9282-4f187eaa71eb.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/8b6b9383-fd6d-40a4-977d-16f5d272e8b8.jpg",
+      "PackagePath": "staticwebassets/uploads/8b6b9383-fd6d-40a4-977d-16f5d272e8b8.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/8bcb350f-57cf-4058-9554-36804bfbe48d.webp",
+      "PackagePath": "staticwebassets/uploads/8bcb350f-57cf-4058-9554-36804bfbe48d.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/8cfbbc5a-bcdc-4633-be10-f90c43e0d3ee.webp",
+      "PackagePath": "staticwebassets/uploads/8cfbbc5a-bcdc-4633-be10-f90c43e0d3ee.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/8e229aaf-55ed-4e01-9030-8bb05ac2bc41.jpg",
+      "PackagePath": "staticwebassets/uploads/8e229aaf-55ed-4e01-9030-8bb05ac2bc41.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/908d5048-3262-4869-9481-9f0cadaf4c35.jpg",
+      "PackagePath": "staticwebassets/uploads/908d5048-3262-4869-9481-9f0cadaf4c35.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/924b3fe7-5053-4483-ae88-7900d3f75b97.webp",
+      "PackagePath": "staticwebassets/uploads/924b3fe7-5053-4483-ae88-7900d3f75b97.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/93175f51-1259-4597-95ef-1f5dfe99f845.jpg",
+      "PackagePath": "staticwebassets/uploads/93175f51-1259-4597-95ef-1f5dfe99f845.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/932783c3-336e-4823-a084-2ecc44859549.jpg",
+      "PackagePath": "staticwebassets/uploads/932783c3-336e-4823-a084-2ecc44859549.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/940b110b-53a0-4856-a57d-e19aab2e6d7c.webp",
+      "PackagePath": "staticwebassets/uploads/940b110b-53a0-4856-a57d-e19aab2e6d7c.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/9427cba5-d1a8-4e99-97d1-ff0a5b6985b1.webp",
+      "PackagePath": "staticwebassets/uploads/9427cba5-d1a8-4e99-97d1-ff0a5b6985b1.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/95c7c9f3-d827-4b8c-bb2b-3ca7b13bf357.jpg",
+      "PackagePath": "staticwebassets/uploads/95c7c9f3-d827-4b8c-bb2b-3ca7b13bf357.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/9c0118eb-963c-455b-be32-e80aae01ef0b.jpg",
+      "PackagePath": "staticwebassets/uploads/9c0118eb-963c-455b-be32-e80aae01ef0b.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/9d210893-830f-43bf-a0da-0472664460c2.jpg",
+      "PackagePath": "staticwebassets/uploads/9d210893-830f-43bf-a0da-0472664460c2.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/Desserts-Cookbook-Template-1.jpg",
+      "PackagePath": "staticwebassets/uploads/Desserts-Cookbook-Template-1.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a03e6024-4802-4732-87b3-cc1d8d138225.jpg",
+      "PackagePath": "staticwebassets/uploads/a03e6024-4802-4732-87b3-cc1d8d138225.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a09f7d39-b3a1-42a6-ba4d-9d9ad08ad513.jpg",
+      "PackagePath": "staticwebassets/uploads/a09f7d39-b3a1-42a6-ba4d-9d9ad08ad513.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a16843af-9af1-4be1-8a29-ac862429b8f6.webp",
+      "PackagePath": "staticwebassets/uploads/a16843af-9af1-4be1-8a29-ac862429b8f6.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a2295914-1f4b-46f8-b4a7-4ab8f9aadf28.jpeg",
+      "PackagePath": "staticwebassets/uploads/a2295914-1f4b-46f8-b4a7-4ab8f9aadf28.jpeg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a40a41dd-ff25-4119-b23d-fb117e178ba4.webp",
+      "PackagePath": "staticwebassets/uploads/a40a41dd-ff25-4119-b23d-fb117e178ba4.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a57081a0-c1d4-4f41-bad3-acec2541bd0f.webp",
+      "PackagePath": "staticwebassets/uploads/a57081a0-c1d4-4f41-bad3-acec2541bd0f.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/a74ccc13-d07d-4bf4-8cda-7abd3a683b82.jpg",
+      "PackagePath": "staticwebassets/uploads/a74ccc13-d07d-4bf4-8cda-7abd3a683b82.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/abb1d925-c727-418b-8889-d1a0c507f3ff.webp",
+      "PackagePath": "staticwebassets/uploads/abb1d925-c727-418b-8889-d1a0c507f3ff.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/acf1ec8e-2d9b-4018-b468-9ba4331e7b65.webp",
+      "PackagePath": "staticwebassets/uploads/acf1ec8e-2d9b-4018-b468-9ba4331e7b65.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/af27efdc-27de-4da3-bc60-8dcb64c6ea11.jpg",
+      "PackagePath": "staticwebassets/uploads/af27efdc-27de-4da3-bc60-8dcb64c6ea11.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/b3320514-be8c-412f-989f-757fbb339a5d.jpg",
+      "PackagePath": "staticwebassets/uploads/b3320514-be8c-412f-989f-757fbb339a5d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/b9a3a4c4-6e11-48a1-a0f0-697b0d3df20d.jpg",
+      "PackagePath": "staticwebassets/uploads/b9a3a4c4-6e11-48a1-a0f0-697b0d3df20d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/b9d33fe4-dce7-49fb-8134-bc11f6543395.jpg",
+      "PackagePath": "staticwebassets/uploads/b9d33fe4-dce7-49fb-8134-bc11f6543395.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/bb7d086f-7034-49c6-8c41-4e7c945a2108.jpg",
+      "PackagePath": "staticwebassets/uploads/bb7d086f-7034-49c6-8c41-4e7c945a2108.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/bd19bd89-ec32-41de-97f5-757c7eb5e1ac.webp",
+      "PackagePath": "staticwebassets/uploads/bd19bd89-ec32-41de-97f5-757c7eb5e1ac.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/bd36c2f4-b13f-48ef-b758-89e9325267cc.jpg",
+      "PackagePath": "staticwebassets/uploads/bd36c2f4-b13f-48ef-b758-89e9325267cc.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/bd730584-09f6-4bdc-8a55-d02bf1ca5e18.jpg",
+      "PackagePath": "staticwebassets/uploads/bd730584-09f6-4bdc-8a55-d02bf1ca5e18.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/bf28f766-b33b-458b-89b4-2b8716011cac.avif",
+      "PackagePath": "staticwebassets/uploads/bf28f766-b33b-458b-89b4-2b8716011cac.avif"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/c101562d-ecd9-4b7a-9fd5-fcb686ee6336.webp",
+      "PackagePath": "staticwebassets/uploads/c101562d-ecd9-4b7a-9fd5-fcb686ee6336.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/c1db23ee-418a-47d5-8a6e-48a2eaaa9187.webp",
+      "PackagePath": "staticwebassets/uploads/c1db23ee-418a-47d5-8a6e-48a2eaaa9187.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/c489dc04-ad1d-49f4-8b10-e3a1f3474992.jpg",
+      "PackagePath": "staticwebassets/uploads/c489dc04-ad1d-49f4-8b10-e3a1f3474992.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/c5ef604a-d9eb-4a7c-9fd3-5c98ddebd513.jpg",
+      "PackagePath": "staticwebassets/uploads/c5ef604a-d9eb-4a7c-9fd3-5c98ddebd513.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/c6e2aa64-e0d2-4163-af3f-f3255dcf1e5c.jpg",
+      "PackagePath": "staticwebassets/uploads/c6e2aa64-e0d2-4163-af3f-f3255dcf1e5c.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/ccbb6a36-f841-4ec7-8845-b3ca3e6ff4e7.webp",
+      "PackagePath": "staticwebassets/uploads/ccbb6a36-f841-4ec7-8845-b3ca3e6ff4e7.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/cd1eb4bc-cd80-4fba-bce3-5090ac5453b8.jpg",
+      "PackagePath": "staticwebassets/uploads/cd1eb4bc-cd80-4fba-bce3-5090ac5453b8.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/cdd07fff-bf79-4c2a-afbe-c6be22d217c3.jpg",
+      "PackagePath": "staticwebassets/uploads/cdd07fff-bf79-4c2a-afbe-c6be22d217c3.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/cfe32698-f1f1-403e-b164-5c2f26469069.png",
+      "PackagePath": "staticwebassets/uploads/cfe32698-f1f1-403e-b164-5c2f26469069.png"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/d9bc51b0-57ae-456e-b0a8-734e3fbd5c46.webp",
+      "PackagePath": "staticwebassets/uploads/d9bc51b0-57ae-456e-b0a8-734e3fbd5c46.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/da766f8a-7d77-4e1d-aeaa-62f3edd4423c.jpg",
+      "PackagePath": "staticwebassets/uploads/da766f8a-7d77-4e1d-aeaa-62f3edd4423c.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/da8845f2-641e-4723-87d7-67c7ea357809.jpg",
+      "PackagePath": "staticwebassets/uploads/da8845f2-641e-4723-87d7-67c7ea357809.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/db4cdcbf-f882-4e23-b23c-4d32b8309b0d.jpg",
+      "PackagePath": "staticwebassets/uploads/db4cdcbf-f882-4e23-b23c-4d32b8309b0d.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/dce73b42-34d7-47c1-8aba-d4a3c9c6581a.webp",
+      "PackagePath": "staticwebassets/uploads/dce73b42-34d7-47c1-8aba-d4a3c9c6581a.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/de4c3a2f-89f1-4372-b224-6516cf665fa8.jpg",
+      "PackagePath": "staticwebassets/uploads/de4c3a2f-89f1-4372-b224-6516cf665fa8.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/debc3f86-6676-41c9-836c-cd31c06e34b4.jpg",
+      "PackagePath": "staticwebassets/uploads/debc3f86-6676-41c9-836c-cd31c06e34b4.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/dff87d15-1a0b-43e8-b9a6-5533d2338bb4.jpg",
+      "PackagePath": "staticwebassets/uploads/dff87d15-1a0b-43e8-b9a6-5533d2338bb4.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/e1798bd4-e2d3-409d-8cca-f46c861953f2.jpg",
+      "PackagePath": "staticwebassets/uploads/e1798bd4-e2d3-409d-8cca-f46c861953f2.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/e1b06738-3c61-45a7-87fd-6eb20fc0d105.jpg",
+      "PackagePath": "staticwebassets/uploads/e1b06738-3c61-45a7-87fd-6eb20fc0d105.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/e40bf614-b814-473a-a0ad-0d55adf25447.webp",
+      "PackagePath": "staticwebassets/uploads/e40bf614-b814-473a-a0ad-0d55adf25447.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/e5acc6f0-e40d-4d78-a657-4a3b71ee33a3.jpg",
+      "PackagePath": "staticwebassets/uploads/e5acc6f0-e40d-4d78-a657-4a3b71ee33a3.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/e77e6027-a9ec-4cc9-8563-4d2a65b521db.webp",
+      "PackagePath": "staticwebassets/uploads/e77e6027-a9ec-4cc9-8563-4d2a65b521db.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/eb107239-8854-4d66-8437-55aead36f627.jpg",
+      "PackagePath": "staticwebassets/uploads/eb107239-8854-4d66-8437-55aead36f627.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/eb665f83-4179-4425-af4c-65c5f1de0160.jpg",
+      "PackagePath": "staticwebassets/uploads/eb665f83-4179-4425-af4c-65c5f1de0160.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/f0fab0f7-1506-49e9-911d-9f7fc839cc94.jpg",
+      "PackagePath": "staticwebassets/uploads/f0fab0f7-1506-49e9-911d-9f7fc839cc94.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/f82bd553-806f-47a7-a1e7-a756a2a2fc81.webp",
+      "PackagePath": "staticwebassets/uploads/f82bd553-806f-47a7-a1e7-a756a2a2fc81.webp"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/f9360b29-e908-48cc-aabe-da2cf4796522.jpg",
+      "PackagePath": "staticwebassets/uploads/f9360b29-e908-48cc-aabe-da2cf4796522.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/f966ee7c-37d0-481b-a9ec-199a2775f7f4.jpg",
+      "PackagePath": "staticwebassets/uploads/f966ee7c-37d0-481b-a9ec-199a2775f7f4.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/fb32f855-b27c-4278-9a6a-4c2cce9887de.jpg",
+      "PackagePath": "staticwebassets/uploads/fb32f855-b27c-4278-9a6a-4c2cce9887de.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/fcecb553-dcc3-45c7-b1b5-865c15a25608.jpg",
+      "PackagePath": "staticwebassets/uploads/fcecb553-dcc3-45c7-b1b5-865c15a25608.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/fd3054e8-5402-4869-9ab0-aa6eb65e077a.jpg",
+      "PackagePath": "staticwebassets/uploads/fd3054e8-5402-4869-9ab0-aa6eb65e077a.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/fd8550dd-83f6-4e11-b9b3-9081a04bb40a.jpg",
+      "PackagePath": "staticwebassets/uploads/fd8550dd-83f6-4e11-b9b3-9081a04bb40a.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/fd9f33a4-5c07-44d5-a106-ada7e1a5b7f9.jpg",
+      "PackagePath": "staticwebassets/uploads/fd9f33a4-5c07-44d5-a106-ada7e1a5b7f9.jpg"
+    },
+    {
+      "Id": "/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/wwwroot/uploads/fe295d73-3ac6-44cd-b827-d3b1fc8dca56.jpg",
+      "PackagePath": "staticwebassets/uploads/fe295d73-3ac6-44cd-b827-d3b1fc8dca56.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props",
+      "PackagePath": "build\\Ice-Cream.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props",
+      "PackagePath": "buildMultiTargeting\\Ice-Cream.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props",
+      "PackagePath": "buildTransitive\\Ice-Cream.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

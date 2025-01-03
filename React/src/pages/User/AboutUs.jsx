@@ -37,7 +37,7 @@ function AboutUs() {
           </div>
           <div className="col text-center text-lg-end animate__animated animate__fadeInRight">
             <img
-              src="./img/Rectangle-313.webp"
+              src="./img/about-us.avif"
               alt="food"
               style={{ width: "55%" }}
             />

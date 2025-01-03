@@ -1,232 +1,986 @@
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\appsettings.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.exe
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.deps.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.runtimeconfig.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.pdb
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Humanizer.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\MailKit.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\MimeKit.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.AssemblyInfoInputs.cache
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.AssemblyInfo.cs
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.sourcelink.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.build.Ice-Cream.props
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ice-Cream.props
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ice-Cream.props
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\scopedcss\bundle\Ice-Cream.styles.css
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.csproj.Up2Date
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\refint\Ice-Cream.dll
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.pdb
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.genruntimeconfig.cache
-C:\Users\ADMIN\Downloads\Aptech\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\ref\Ice-Cream.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.AssemblyInfoInputs.cache
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.AssemblyInfo.cs
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.sourcelink.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\refint\Ice-Cream.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.pdb
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\appsettings.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.exe
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.deps.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.runtimeconfig.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Ice-Cream.pdb
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Humanizer.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\MailKit.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\MimeKit.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\System.Formats.Asn1.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.build.Ice-Cream.props
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ice-Cream.props
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ice-Cream.props
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\scopedcss\bundle\Ice-Cream.styles.css
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.csproj.Up2Date
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\Ice-Cream.genruntimeconfig.cache
-C:\Users\ADMIN\Documents\GitHub\Ice-Cream\Api\Ice-Cream\obj\Debug\net8.0\ref\Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.exe
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.sourcelink.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+C:/Users/ADMIN/Downloads/Aptech/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.sourcelink.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.exe
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+C:/Users/ADMIN/Documents/GitHub/Ice-Cream/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.exe
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+C:/Users/ADMIN/Downloads/Khai/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.runtime.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.runtime.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.endpoints.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.exe
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+C:/Users/Administrator/Desktop/chung2/Ice-Cream-khai/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.sourcelink.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.runtime.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/AutoMapper.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MySql.Data.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/PayPalCheckoutSdk.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/PayPalHttp-Dotnet.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/RestSharp.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ZstdSharp.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Json.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/trantien/Downloads/Project/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.runtime.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.endpoints.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.exe
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/PayPalCheckoutSdk.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/PayPalHttp-Dotnet.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/RestSharp.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.AspNetCore.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.File.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+C:/Users/Administrator/Desktop/chung4/Ice-Cream-khai2/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/appsettings.Development.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/appsettings.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.staticwebassets.runtime.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.deps.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.runtimeconfig.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Ice-Cream.pdb
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/AutoMapper.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Humanizer.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/MailKit.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/MimeKit.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/MySql.Data.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/MySqlConnector.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/PayPalCheckoutSdk.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/PayPalHttp-Dotnet.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/RestSharp.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.CodeDom.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Text.Json.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ZstdSharp.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.AssemblyReference.cache
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfoInputs.cache
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.AssemblyInfo.cs
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.CoreCompileInputs.cache
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cs
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.MvcApplicationPartsAssemblyInfo.cache
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.build.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.development.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.Ice-Cream.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.build.Ice-Cream.props
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ice-Cream.props
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ice-Cream.props
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/scopedcss/bundle/Ice-Cream.styles.css
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.csproj.Up2Date
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/refint/Ice-Cream.dll
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.pdb
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/Ice-Cream.genruntimeconfig.cache
+/Users/trantien/Downloads/Ice-Cream-khai2 3/Api/Ice-Cream/obj/Debug/net8.0/ref/Ice-Cream.dll

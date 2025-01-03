@@ -1,25 +1,22 @@
-import CheckTable from "./components/CheckTable";
+import React from "react";
+import { Link } from "react-router-dom";
+import TableList from "./components/TableList";
 
-import {
-  columnsDataDevelopment,
-  columnsDataCheck,
-  columnsDataColumns,
-  columnsDataComplex,
-} from "./variables/columnsData";
-import tableDataDevelopment from "./variables/tableDataDevelopment.json";
-import tableDataCheck from "./variables/tableDataCheck.json";
-import tableDataColumns from "./variables/tableDataColumns.json";
-import tableDataComplex from "./variables/tableDataComplex.json";
-import DevelopmentTable from "./components/DevelopmentTable";
-import ColumnsTable from "./components/ColumnsTable";
-import ComplexTable from "./components/ComplexTable";
-
-const Product = () => {
+const Recipe = () => {
   return (
     <div>
-      
+      <div>
+        <Link to="../create-recipe" className="inline-block">
+          <button className="linear mt-4 flex items-center justify-center rounded-xl bg-brand-500 px-2 py-2 text-base font-medium text-white transition duration-200 hover:bg-brand-600 active:bg-brand-700 dark:bg-brand-400 dark:text-white dark:hover:bg-brand-300 dark:active:bg-brand-200">
+            Create New Recipe
+          </button>
+        </Link>
+      </div>
+      <div className="mt-5 grid h-full grid-cols-1 gap-5 md:grid-cols-1">
+        <TableList />
+      </div>
     </div>
   );
 };
 
-export default Product;
+export default Recipe;

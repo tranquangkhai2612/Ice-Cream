@@ -16,7 +16,13 @@ export function SidebarLinks(props) {
   };
 
   const createLinks = (routes) => {
-    return routes.map((route, index) => {
+
+    return routes
+    .filter((route) => route.name !== "Create Recipe")
+    .filter((route) => route.name !== "Edit Recipe")
+    .filter((route) => route.name !== "Create Book")
+    .filter((route) => route.name !== "Edit Book")
+    .map((route, index) => {
       if (
         route.layout === "/admin" ||
         route.layout === "/auth" ||

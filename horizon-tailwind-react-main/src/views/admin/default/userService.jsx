@@ -26,7 +26,13 @@ const blockUser = async (userId) => {
     }
 };
 
+const getApiUrl = () => {
+    return API_URL;
+  };
+  
+
 export default {
     getAllUsers,
     blockUser,
+    getApiUrl
 };

@@ -24,62 +24,61 @@ const RegisterPage = () => {
   const handleChange = (e) => {
     const { name, value } = e.target;
     setUserData({ ...userData, [name]: value });
-  
+
     if (name === "username" && validUsername.test(value)) {
       setUsernameErr(false);
     }
-  
+
     if (name === "password" && validPassword.test(value)) {
       setPwdError(false);
     }
-  
+
     if (name === "email" && validEmail.test(value)) {
       setEmailErr(false);
     }
-  
+
     if (name === "address" && validAddress.test(value)) {
       setAddressError(false);
     }
   };
-  
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-  
+
     const { username, password, email, address } = userData;
-  
+
     let hasError = false;
-  
+
     if (!validUsername.test(username)) {
       setUsernameErr(true);
       hasError = true;
     } else {
       setUsernameErr(false);
     }
-  
+
     if (!validPassword.test(password)) {
       setPwdError(true);
       hasError = true;
     } else {
       setPwdError(false);
     }
-  
+
     if (!validEmail.test(email)) {
       setEmailErr(true);
       hasError = true;
     } else {
       setEmailErr(false);
     }
-  
+
     if (!validAddress.test(address)) {
       setAddressError(true);
       hasError = true;
     } else {
       setAddressError(false);
     }
-  
+
     if (hasError) {
-      return;
+      return; // Stop if there are validation errors
     }
 
     try {
@@ -88,23 +87,17 @@ const RegisterPage = () => {
         "Registration successful! Please check your email to verify your account."
       );
       setError(null);
+      navigate("/login");
     } catch (err) {
+      // Extract error message from the API response or fallback to a default message
       const message =
-        error.response?.data?.message || "Register Failed. Please try again.";
-      if (message === "Email already exists!") {
-        setErrorMessage("Email already exists!");
-      } else if (message === "Username already exists!") {
-        setErrorMessage("Username already exists!");
-      } else {
-        console.error("Registration Error:", err);
-      setError(
-        err.response?.data?.message || err.message || "Registration failed"
-      );
-      }
+        err.response?.data ||
+        err.message ||
+        "Registration failed. Please try again.";
+      setError(message);
     }
-    navigator('/login')
   };
-  
+
   return (
     <div className="overflow-x-hidden">
       <div className="row flex-column flex-md-row vh-100">
@@ -197,9 +190,8 @@ const RegisterPage = () => {
                   </button>
                   {message && <p style={{ color: "green" }}>{message}</p>}
                   {error && (
-                    <div style={{ color: "red" }}>
-                      <p>Registration failed:</p>
-                      <pre>{JSON.stringify(error, null, 2)}</pre>{" "}
+                    <div className="alert alert-danger" role="alert">
+                      {error}
                     </div>
                   )}
                 </div>

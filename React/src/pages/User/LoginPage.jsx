@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import userServices from "./../../services/userServices"; 
+import userServices from "./../../services/userServices";
 import { Link } from "react-router-dom";
-import './styles/Auth.css'
+import "./styles/Auth.css";
 
 const LoginPage = () => {
   const [username, setUsername] = useState("");
@@ -38,7 +38,9 @@ const LoginPage = () => {
     return isValid;
   };
 
-  const handleLogin = async () => {
+  const handleLogin = async (e) => {
+    e.preventDefault();
+
     if (!validateInputs()) return;
 
     setErrorMessage(null);
@@ -50,26 +52,26 @@ const LoginPage = () => {
       localStorage.setItem("user", JSON.stringify(user));
 
       if (user.role === "Admin") {
-        navigate("/index");
+        window.location.href = "http://localhost:3000/admin/default";
       } else {
         navigate("/profile", { state: { userId: user.id } });
       }
     } catch (error) {
+      console.log(error.message);
+      // Extract error message from the API response or fallback to a default message
       const message =
-        error.response?.data?.message || "Login failed. Please try again.";
-      if (message === "Invalid username or password!") {
-        setErrorMessage("Invalid username or password!");
-      } else if (message === "Account is either inactive or blocked!") {
-        setErrorMessage("Account is either inactive or blocked!");
-      } else {
-        setErrorMessage(message);
-      }
+        error.response?.data?.message ||
+        error.message ||
+        "Login failed. Please try again.";
+
+      setErrorMessage(message);
+    } finally {
+      setIsLoading(false);
     }
   };
 
   return (
-    <div >
-
+    <div>
       <div className="overflow-hidden">
         <div className="row flex-column flex-md-row">
           <Link
@@ -87,18 +89,13 @@ const LoginPage = () => {
             <div className="row m-0 p-0 justify-content-start justify-content-md-center">
               <div className="col col-md-8">
                 <hr />
-                <form
-                  onSubmit={(e) => {
-                    e.preventDefault();
-                    handleLogin();
-                  }}
-                  noValidate
-                >
+                <form onSubmit={handleLogin} noValidate>
                   {errorMessage && (
                     <div className="alert alert-danger" role="alert">
                       {errorMessage}
                     </div>
                   )}
+
                   <div className="mb-3">
                     <label htmlFor="username" className="form-label">
                       Username
@@ -111,8 +108,8 @@ const LoginPage = () => {
                       id="username"
                       name="username"
                       placeholder="Username"
+                      value={username}
                       onChange={(e) => setUsername(e.target.value)}
-                      onBlur={() => validateInputs()}
                     />
                     {usernameErr && (
                       <div className="invalid-feedback">{usernameErr}</div>
@@ -129,8 +126,8 @@ const LoginPage = () => {
                       id="password"
                       name="password"
                       placeholder="Password"
+                      value={password}
                       onChange={(e) => setPassword(e.target.value)}
-                      onBlur={() => validateInputs()}
                     />
                     {pwdError && (
                       <div className="invalid-feedback">{pwdError}</div>
